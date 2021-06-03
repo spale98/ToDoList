@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/Main.css">
+    <title>Todo List</title>
+</head>
+<body>
+
+    <div class="jumbotron">
+        
+        <h3 class="display-3 todo-logo text-center">Todo List</h3>
+        
+        <hr>
+
+        <div class="row justify-content-center">
+            <div class="col-3">
+                <input type="text" id="taskNameInput" class="form-control" placeholder="Task name...">
+            </div>
+
+            <div class="col-2">
+                <input type="date" id="taskDateInput" class="form-control">
+            </div>
+        </div>
+
+        <br>
+
+        <div class="row justify-content-center">
+            <div class="col-5">
+                <textarea id="taskDescriptionInput" class="form-control" placeholder="Task descrpition..."></textarea>
+            </div>
+        </div>
+
+        <br>
+
+        <div class="row justify-content-center">
+            <div class="col-2 text-center">
+                <button id="btnAdd" class="btn btn-add">Add task</button>
+            </div>
+        </div>
+
+    </div>
+
+    <section id="tasks" class="container-fluid"></section>
+
+    <script src="./js/Errors.js"></script>
+    <script src="./js/Task.js"></script>
+    <script src="./js/TaskRepository.js"></script>
+    <script src="./js/TodoService.js"></script>
+    <script src="./js/Main.js"></script>
+</body>
+</html>

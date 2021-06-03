@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #bbb;
+}
+
+.jumbotron {
+    background-color: blueviolet;
+    box-shadow: 0 3px 7.5px #333;
+    border-radius: 0;
+}
+
+.todo-logo {
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 7.5px #333;
+}
+
+
+.form-control {
+    border: none;
+    box-shadow: 3px 3px 7.5px #333;
+}
+
+.btn-add {
+    width: 100%;
+    font-size: 25px;
+    text-transform: uppercase;
+    background-color: white;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    transition: .3s;
+}
+
+.btn-add:hover {
+    box-shadow: 3px 3px 7.5px #333;
+    color: blueviolet;
+    background-color: white;
+}
+
+.task {
+    margin: 20px;
+    background-color: #eee;
+    box-shadow: 3px 3px 7.5px #333;
+    transition: .25s;
+    cursor: pointer;
+    animation: fadeIn .8s;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.task:hover {
+    transform: scale(1.05);
+}

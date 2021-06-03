@@ -1,0 +1,14 @@
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\bin\Debug\netcoreapp2.2\api.deps.json
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\bin\Debug\netcoreapp2.2\api.dll
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\bin\Debug\netcoreapp2.2\api.pdb
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\obj\Debug\netcoreapp2.2\api.dll
+D:\VTS\Internet jezici i alati 2\Projekat\Todo\api\obj\Debug\netcoreapp2.2\api.pdb
